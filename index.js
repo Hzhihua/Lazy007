@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         华南师范大学 - 一师一优课，一课一名师评比活动的教学提升技巧
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.1
 // @description  自动跳转，自动关闭视频弹框，【注意：评论不会自动回答】
-// @author       You
+// @author       Lazy007
 // @match        http://www.scnunet.com/ncts/*
 // @grant        none
 // ==/UserScript==
