@@ -35,5 +35,5 @@
             player[0].firstElementChild.paused && player[0].firstElementChild.play();
         }
 
-    }, 5000);
+    }, 3000);
 })();
